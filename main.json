@@ -1,0 +1,41 @@
+
+{
+    "ads_id" : "",
+    "inter_ads_id" : "",
+    
+    "sliders" : [
+        {
+        "name" : "ad",
+        "link" : "https://m.facebook.com/XcomicProduction/",
+        "image" : "https://blogger.googleusercontent.com/img/b/"
+        }
+    ],
+    
+    "series" : [
+           
+            {
+            "encrypted":false,
+            "json":false,
+            "category": "Adult,Action, Drama, Historical, Mature, Romance, Seinen",
+            "cover": "https://dev-deepscans.pantheonsite.io/wp-content/uploads/2023/06/cover-193x278.png",
+            "link": "https://dev-deepscans.pantheonsite.io/manga/milf-hunting-in-another-world-2/",
+            "rating": "4.3/5",
+            "review": "ဘာဘာညာညာ",
+            "series_id": "0002",
+            "status": "ongoing",
+            "title": "SERIES 2"
+            },
+            {
+            "encrypted":false,
+            "json":false,
+            "category": "Adult,Comedy, Drama, Mature, Romance, School Life, Seinen",
+            "cover": "https://dev-deepscans.pantheonsite.io/wp-content/uploads/2023/06/9cdf070b-a478-41aa-9704-38516a52f7cc-193x278.png",
+            "link": "https://dev-deepscans.pantheonsite.io/manga/resume-2/",
+            "rating": "4.2/5",
+            "review": "ဘာဘာညာညာ",
+            "series_id": "0001",
+            "status": "ongoing",
+            "title": "SERIES 1"
+            }
+    ]
+}
