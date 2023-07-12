@@ -15,15 +15,15 @@
            
             {
             "encrypted":false,
-            "json":false,
+            "json":true,
             "category": "Adult,Action, Drama, Historical, Mature, Romance, Seinen",
-            "cover": "https://dev-deepscans.pantheonsite.io/wp-content/uploads/2023/06/cover-193x278.png",
-            "link": "https://dev-deepscans.pantheonsite.io/manga/milf-hunting-in-another-world-2/",
+            "cover": "https://dev-deepscans.pantheonsite.io/wp-content/uploads/2023/06/cover.png",
+            "link": "https://raw.githubusercontent.com/DSCAN12/library33/main/milf/episodes.json",
             "rating": "4.3/5",
             "review": "ဘာဘာညာညာ",
             "series_id": "0002",
             "status": "ongoing",
-            "title": "SERIES 2"
+            "title": "Milf Hunting"
             },
             {
             "encrypted":false,
