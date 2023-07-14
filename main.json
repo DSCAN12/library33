@@ -13,7 +13,7 @@
     
     "series" : [
         {
-            "encrypted":false,
+            "encrypted":true,
             "json":true,
             "category": "Adult, Drama, Mature",
             "cover": "https://dev-deepscans.pantheonsite.io/wp-content/uploads/2023/07/Tomodachi.jpg",
