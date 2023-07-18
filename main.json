@@ -48,7 +48,7 @@
             },
             {
             "encrypted":false,
-            "json":false,
+            "json":true,
             "category": "Adult,Comedy, Drama, Mature, Romance, School Life, Seinen",
             "cover": "https://dev-deepscans.pantheonsite.io/wp-content/uploads/2023/06/9cdf070b-a478-41aa-9704-38516a52f7cc-193x278.png",
             "link": "https://raw.githubusercontent.com/DSCAN12/library33/main/resume/episodes.json",
@@ -56,7 +56,7 @@
             "review": "ဘာဘာညာညာ",
             "series_id": "0002",
             "status": "ongoing",
-            "title": "Resume"
+            "title": "Resume "
             },
             {
                 "encrypted":false,
