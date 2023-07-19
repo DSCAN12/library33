@@ -50,7 +50,7 @@
             "encrypted":false,
             "json":true,
             "category": "Adult,Comedy, Drama, Mature, Romance,Revenge",
-            "cover": "https://dev-deepscans.pantheonsite.io/wp-content/uploads/2023/06/9cdf070b-a478-41aa-9704-38516a52f7cc-193x278.png",
+            "cover": "https://dev-deepscans.pantheonsite.io/wp-content/uploads/2023/06/Resume.png",
             "link": "https://raw.githubusercontent.com/DSCAN12/library33/main/resume/episodes.json",
             "rating": "4.5/5",
             "review": " သာမာန်လခစား မူလတန်းကျောင်းအကူ တစ်ယောက်ဖြစ်တဲ့ အိုဟာဂျွန်း
@@ -95,6 +95,18 @@
                 "status": "completed",
                 "title": "Tomodachi no Gibo to Ane ni Yuuwaku Sareru Hanashi Kouhen"
                 },
+                {
+                    "encrypted":false,
+                    "json":true,
+                    "category": "Adult, Drama, Doujinshi,Mature,အင်းစက်",
+                    "cover": "https://dev-deepscans.pantheonsite.io/wp-content/uploads/2023/06/1.jpg",
+                    "link": "https://raw.githubusercontent.com/DSCAN12/library33/main/kaasan/episodes.json",
+                    "rating": "4.3/5",
+                    "review": "အမေ့ရဲ့အပေါက်ကို အသုံးပြုပါရစေဆိုတဲ့ ဒီရုပ်ပြဟာ အမေနဲ့သားရဲ့ အင်းစက် ဆက်ဆံရေးကို ကွက်ကွက်ကွင်းကွင်း သရုပ်ဖော်ထားတာမို့ အင်းစက်ကြိုက်သူများအတွက် လက်မလွှတ်သင့်တဲ့ ရုပ်ပြတစ်ခုဖြစ်ပါတယ်။",
+                    "series_id": "0003",
+                    "status": "ongoing",
+                    "title": "Kaa-san no Ana Tsukawasete "
+                    },
                 {
                     "encrypted":false,
                     "json":true,
