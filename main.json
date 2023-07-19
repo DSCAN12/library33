@@ -118,6 +118,18 @@
                     "series_id": "0003",
                     "status": "Completed",
                     "title": "My Yoshikawa sensei will do as I say "
-                    }
+                    },
+                    {
+                        "encrypted":false,
+                        "json":true,
+                        "category": "Adult, Drama, Doujinshi,Mature",
+                        "cover": "https://dev-deepscans.pantheonsite.io/wp-content/uploads/2023/07/01-1.jpg",
+                        "link": "https://raw.githubusercontent.com/DSCAN12/library33/main/summer/episodes.json",
+                        "rating": "4.3/5",
+                        "review": "ဒီဇာတ်လမ်းလေးကတော့ ချစ်သူနှစ်ယောက်ရဲ့ ပူပြင်းလှတဲ့ နွေရာသီနေ့တစ်နေ့မှာ ဘာညာကွိကွလုပ်မှာကို မြင်တွေ့ရမှာပါ။",
+                        "series_id": "0003",
+                        "status": "One Shot",
+                        "title": "Chikyuu ga Achuachu dakara Kanojo ga Chintama o Fuufuu Shite Kureru Hon "
+                        },
     ]
 }
