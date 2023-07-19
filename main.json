@@ -98,14 +98,14 @@
                 {
                     "encrypted":false,
                     "json":true,
-                    "category": "Adult, Drama, Mature, Romance, School Life",
+                    "category": "Adult, Drama, Doujinshi,Mature",
                     "cover": "https://dev-deepscans.pantheonsite.io/wp-content/uploads/2023/06/01.jpg",
-                    "link": "https://raw.githubusercontent.com/DSCAN12/library33/main/eb/episodes.json",
-                    "rating": "4.3/5",
-                    "review": "ဘာဘာညာညာ",
+                    "link": "https://raw.githubusercontent.com/DSCAN12/library33/main/yoshikawasensei/episodes.json",
+                    "rating": "4.5/5",
+                    "review": "မောင်ဖက်တီးတစ်ယောက် ကျောင်းသူတစ်ယာက်ကိုအကြပ်ကိုင်ပြီး ဘုတာ ဆရာမ Yoshikawa ရိပ်မိသွားပါတယ်။ဒီတော့ မောင်ဖက်တီးကို ဆရာမက ရဲလက်အပ်မယ်လုပ်တော့ဆရာမကို အိပ်ဆေးခပ်ပြီး ဘယ်လိုထပ်အကြပ်ကိုင်မလဲဆိုတာ Art လှလှနဲ့ ဖတ်ရှုကြပါ။",
                     "series_id": "0003",
-                    "status": "ongoing",
-                    "title": "Engineering Beauties"
+                    "status": "Completed",
+                    "title": "My Yoshikawa sensei will do as I say "
                     }
     ]
 }
