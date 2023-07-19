@@ -130,6 +130,20 @@
                         "series_id": "0003",
                         "status": "One Shot",
                         "title": "Chikyuu ga Achuachu dakara Kanojo ga Chintama o Fuufuu Shite Kureru Hon "
+                },
+                {
+                        "encrypted":false,
+                        "json":true,
+                        "category": "Adult, Drama, Doujinshi,Mature",
+                        "cover": "https://dev-deepscans.pantheonsite.io/wp-content/uploads/2023/07/1.jpg",
+                        "link": "https://raw.githubusercontent.com/DSCAN12/library33/main/elf/episodes.json",
+                        "rating": "4.3/5",
+                        "review": "သင်းအုပ်စရာတစ်ယာက် Elf မလေးကို ဘယ်လိုဆွဲစားမလဲဆိုတာ…",
+                        "series_id": "0003",
+                        "status": "One Shot",
+                        "title": "Elf of Vanilla "
         }
+        
+        
     ]
 }
