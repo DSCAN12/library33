@@ -94,6 +94,18 @@
                 "series_id": "0001",
                 "status": "completed",
                 "title": "Tomodachi no Gibo to Ane ni Yuuwaku Sareru Hanashi Kouhen"
-                }
+                },
+                {
+                    "encrypted":false,
+                    "json":true,
+                    "category": "Adult, Drama, Mature, Romance, School Life",
+                    "cover": "https://dev-deepscans.pantheonsite.io/wp-content/uploads/2023/06/01.jpg",
+                    "link": "https://raw.githubusercontent.com/DSCAN12/library33/main/eb/episodes.json",
+                    "rating": "4.3/5",
+                    "review": "ဘာဘာညာညာ",
+                    "series_id": "0003",
+                    "status": "ongoing",
+                    "title": "Engineering Beauties"
+                    }
     ]
 }
