@@ -123,6 +123,18 @@
             "encrypted":false,
             "json":true,
             "category": "Adult, Drama, Doujinshi,Mature",
+            "cover": "https://dev-deepscans.pantheonsite.io/wp-content/uploads/2023/06/001-1.jpg",
+            "link": "https://raw.githubusercontent.com/DSCAN12/library33/main/kaisha/episodes.json",
+            "rating": "4.5/5",
+            "review": "အပျိုကြီးကိုစိတ်ယိုင်အောင်လုပ်သွားတဲ့ ဝန်ထမ်းကောင်လေးက ရလေလိုလေ အိုတစေဖြစ်လာပါတယ်။ အချိန်လည်းမရွေးနေရာလည်းမရွေးပဲ ရထားပေါ် ရုံးခန်းထဲ မှာပါစားတဲ့ထိပဲ။ အဲ့ဒီမှာ ဌာနမှူးအပျိုကြီးကိုချော့ပြီးကျုံး ခြောက်ပြီးကျုံးနဲ့ ဘယ်အခြေအနေလောက်ထိရောက်သွားမလဲ။သူတို့ နှစ်ယောက်ဘာတွေဆက်ဖြစ်မလဲဆိုတာ ဖတ်ကြည့်ပါအုန်းနော်",
+            "series_id": "0003",
+            "status": "Doujinshi",
+            "title": "Kaisha no Iki Okure BBA Haramaseta"
+            },
+            {
+            "encrypted":false,
+            "json":true,
+            "category": "Adult, Drama, Doujinshi,Mature",
             "cover": "https://dev-deepscans.pantheonsite.io/wp-content/uploads/2023/07/004-1.jpg",
             "link": "https://raw.githubusercontent.com/DSCAN12/library33/main/wife/episodes.json",
             "rating": "4.3/5",
@@ -208,12 +220,36 @@
             "encrypted":false,
             "json":true,
             "category": "Adult, Drama, Doujinshi,Mature",
+            "cover": "https://dev-deepscans.pantheonsite.io/wp-content/uploads/2023/06/01-11.jpg",
+            "link": "https://raw.githubusercontent.com/DSCAN12/library33/main/orange/episodes.json",
+            "rating": "4.5/5",
+            "review": "အိမ်ဖော်မလေးနဲ့ဘယ်လို နှစ်ပါးသွားမလဲဆိုတာ…",
+            "series_id": "0003",
+            "status": "Doujinshi",
+            "title": "Orange Sunshine "
+            },
+            {
+            "encrypted":false,
+            "json":true,
+            "category": "Adult, Drama, Doujinshi,Mature",
+            "cover": "https://dev-deepscans.pantheonsite.io/wp-content/uploads/2023/06/01-2.jpg",
+            "link": "https://raw.githubusercontent.com/DSCAN12/library33/main/naruto/episodes.json",
+            "rating": "4.5/5",
+            "review": "Naruto တစ်ယောက် လုံးကြီးပေါက်လှ Tsunade ကြီးကို ဘယ်လိုတွေစားဖို့ ဂွင်ဖန်မလဲ ဖတ်ရှုကြမှာပါ။",
+            "series_id": "0003",
+            "status": "Doujinshi",
+            "title": "Kyounyuu no Ninja Chichikage  "
+            },
+            {
+            "encrypted":false,
+            "json":true,
+            "category": "Adult, Drama, Doujinshi,Mature",
             "cover": "https://dev-deepscans.pantheonsite.io/wp-content/uploads/2023/07/1.jpg",
             "link": "https://raw.githubusercontent.com/DSCAN12/library33/main/elf/episodes.json",
             "rating": "4.3/5",
             "review": "သင်းအုပ်စရာတစ်ယာက် Elf မလေးကို ဘယ်လိုဆွဲစားမလဲဆိုတာ…",
             "series_id": "0003",
-            "status": "One Shot",
+            "status": "Doujinshi",
             "title": "Elf of Vanilla "
         }
 
