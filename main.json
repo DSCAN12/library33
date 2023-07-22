@@ -218,6 +218,18 @@
             {
             "encrypted":false,
             "json":true,
+            "category": "Adult, Doujinshi,Horror,Mature",
+            "cover": "https://dev-deepscans.pantheonsite.io/wp-content/uploads/2023/06/01-3.jpg",
+            "link": "https://raw.githubusercontent.com/DSCAN12/library33/main/yamamurasadako/episodes.json",
+            "rating": "4.7/5",
+            "review": "အောကားကြည့်နေရင်း တီဗီက ရုတ်တရက်ပိတ်သွားပြီး ကျိန်စာသင့်သရဲမ ထွက်လာတဲ့အခါ သရဲမနဲ့ဘယ်လိုနှစ်ပါးသွားမလဲကြည့်ကြပါ။",
+            "series_id": "0003",
+            "status": "Doujinshi",
+            "title": "Yamamura Sadako"
+            },
+            {
+            "encrypted":false,
+            "json":true,
             "category": "Adult, Drama, Doujinshi,Mature",
             "cover": "https://dev-deepscans.pantheonsite.io/wp-content/uploads/2023/06/04.jpg",
             "link": "https://raw.githubusercontent.com/DSCAN12/library33/main/jk/episodes.json",
