@@ -447,6 +447,41 @@
             {
             "encrypted":false,
             "json":true,
+            "category": "Oneshot,Comedy,Horror",
+            "cover": "https://dev-deepscans.pantheonsite.io/wp-content/uploads/2023/05/002.jpg",
+            "link": "https://raw.githubusercontent.com/DSCAN12/library33/main/cryant/episodes.json",
+            "rating": "4.7/5",
+            "review": "
+
+            လခစား ဝန်ထမ်းတစ်ယာက်ဖြစ်တဲ့ Yamamoto
+            
+            သူ့အလုပ်ရှင်ရဲ့ ကပ်သီးကပ်သပ်ခိုင်းလွန်းလို့ အမြဲ
+            
+            စိတ်ညစ်ပြီး အိမ်ပြန်ရောက်တဲ့တစ်နေ့ ။
+            
+            အိပ်လိုက်တဲ့အခါ သရဲမတစ်ယာက်က သတ်မယ်
+            
+            သတ်မယ်နဲ့ ကြိမ်းဝါးပါတော့တယ်။ အဲ့လိုနဲ့
+            
+            ကြောင်မလေးပုံစံပြာင်းပြီးမှ သတ်ပါလားပြောတော့
+            
+            ပျောက်ကွယ်သွားလေရဲ့။ဒီလိုနဲ့ အဲ့လိုညရောက်တိုင်း
+            
+            ပုံစံအမျိုးမျိုးပြောင်းပြီး ယာမာမိုတို ကိုလာသတ်တဲ့အခါ
+            
+            ဘယ်လိုတွေ ခွီးကြမလဲ။ နောက်ပြီး ဖတ်တတ်ရင်
+            
+            သင်ခန်းစာရနိုင်တဲ့ one shot ကောင်းလေး မို့ ဆက်ဆက်
+            
+            ဖတ်စေချင်ပါတယ်။",
+            "series_id": "0003",
+            "status": "OneShot",
+            "title": "Cry-Ant"
+            
+        },
+            {
+            "encrypted":false,
+            "json":true,
             "category": "Oneshot, Drama,Horror",
             "cover": "https://dev-deepscans.pantheonsite.io/wp-content/uploads/2023/04/02-o.jpg",
             "link": "https://raw.githubusercontent.com/DSCAN12/library33/main/zanuff/episodes.json",
@@ -471,7 +506,7 @@
             
             Emotional ဆန်ဆန် ဖတ်ရှုကြရမှာပါ။",
             "series_id": "0003",
-            "status": "Doujinshi",
+            "status": "OneShot",
             "title": "အသားသည် Zanuff"
             
         }
