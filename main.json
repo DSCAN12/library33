@@ -183,6 +183,18 @@
             "encrypted":false,
             "json":true,
             "category": "Adult, Drama, Doujinshi,Mature",
+            "cover": "https://dev-deepscans.pantheonsite.io/wp-content/uploads/2023/06/001-3.jpg",
+            "link": "https://raw.githubusercontent.com/DSCAN12/library33/main/nagatoro/episodes.json",
+            "rating": "4.7/5",
+            "review": "အစနောက်သန်တဲ့ ကောင်မလေးနဲ့ကောင်လေးတို့ကြား Doujinshi အနေနဲ့မြင်တွေ့ရမှာပါ။ Anime လည်းအတော်ပေါက်သွားခဲ့တဲ့ဟာလေးပါ။",
+            "series_id": "0003",
+            "status": "Doujinshi",
+            "title": "The Joy of Breeding "
+            },
+            {
+            "encrypted":false,
+            "json":true,
+            "category": "Adult, Drama, Doujinshi,Mature",
             "cover": "https://dev-deepscans.pantheonsite.io/wp-content/uploads/2023/07/01.jpg",
             "link": "https://raw.githubusercontent.com/DSCAN12/library33/main/berrycakes/episodes.json",
             "rating": "4.5/5",
@@ -275,6 +287,18 @@
             "series_id": "0003",
             "status": "Doujinshi",
             "title": "Orange Sunshine "
+            },
+            {
+            "encrypted":false,
+            "json":true,
+            "category": "Adult, Dog, Doujinshi,Mature",
+            "cover": "https://dev-deepscans.pantheonsite.io/wp-content/uploads/2023/06/01.jpeg",
+            "link": "https://raw.githubusercontent.com/DSCAN12/library33/main/onebaddog/episodes.json",
+            "rating": "4.4/5",
+            "review": "မစ်ရှင်တစ်ခုမှာ သစ္စာဖောက်ပြီး ခွေးနဲ့တွေ့ပေးလိုက်တဲ့အခါ…",
+            "series_id": "0003",
+            "status": "Doujinshi",
+            "title": "One Bad Dog One Good Girl "
             },
             {
             "encrypted":false,
