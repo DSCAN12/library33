@@ -339,6 +339,18 @@
             {
             "encrypted":false,
             "json":true,
+            "category": "Adult, Doujinshi,Mature",
+            "cover": "https://dev-deepscans.pantheonsite.io/wp-content/uploads/2023/06/01-10.jpg",
+            "link": "https://raw.githubusercontent.com/DSCAN12/library33/main/spider/episodes.json",
+            "rating": "4.4/5",
+            "review": "ဒီပင့်ကူမလေးကို ညိုကီတို့သိကြမှာပါ...",
+            "series_id": "0003",
+            "status": "Doujinshi",
+            "title": "Kumo Gi Ga "
+            },
+            {
+            "encrypted":false,
+            "json":true,
             "category": "Adult, Drama, Doujinshi,Mature",
             "cover": "https://dev-deepscans.pantheonsite.io/wp-content/uploads/2023/06/01-2.jpg",
             "link": "https://raw.githubusercontent.com/DSCAN12/library33/main/naruto/episodes.json",
@@ -347,6 +359,18 @@
             "series_id": "0003",
             "status": "Doujinshi",
             "title": "Kyounyuu no Ninja Chichikage  "
+            },
+            {
+            "encrypted":false,
+            "json":true,
+            "category": "Adult, Doujinshi,Mature",
+            "cover": "https://dev-deepscans.pantheonsite.io/wp-content/uploads/2023/06/01-9.jpg",
+            "link": "https://raw.githubusercontent.com/DSCAN12/library33/main/446holiday/episodes.json",
+            "rating": "4.4/5",
+            "review": "ဒီဟာလည်း Anime ကို doujinshi လုပ်ပေးထားတာပါ",
+            "series_id": "0003",
+            "status": "Doujinshi",
+            "title": "446 Holiday and GirlFriend"
             },
             {
             "encrypted":false,
