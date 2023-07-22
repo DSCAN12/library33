@@ -447,6 +447,18 @@
             {
             "encrypted":false,
             "json":true,
+            "category": "Manga,Revenge,Romance,Drama",
+            "cover": "https://dev-deepscans.pantheonsite.io/wp-content/uploads/2023/04/Kanojo-NTR-cover.jpg",
+            "link": "https://raw.githubusercontent.com/DSCAN12/library33/main/cheatgrilfriend/episodes.json",
+            "rating": "4.7/5",
+            "review": "ကောင်မလေးက ကိုယ့်စီနီယာအစ်ကိုနဲ့ ဖောက်ပြန်လို့ စီနီယာရဲ့ ရည်းစားကိုပြန်စားမယ့် လက်စားချေတဲ့ ဇာတ်လမ်းပါ",
+            "series_id": "0003",
+            "status": "Manga",
+            "title": "My Girlfriend Cheated on Me With a Senior, so I am Cheating on Her With His Girlfriend "
+            },
+            {
+            "encrypted":false,
+            "json":true,
             "category": "Oneshot,Peaceful,Comedy,Wholesome,Romance,Drama",
             "cover": "https://dev-deepscans.pantheonsite.io/wp-content/uploads/2023/04/04.png",
             "link": "https://raw.githubusercontent.com/DSCAN12/library33/main/loveskeleton/episodes.json",
