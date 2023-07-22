@@ -447,6 +447,27 @@
             {
             "encrypted":false,
             "json":true,
+            "category": "Oneshot,Peaceful,Comedy,Wholesome,Romance,Drama",
+            "cover": "https://dev-deepscans.pantheonsite.io/wp-content/uploads/2023/04/04.png",
+            "link": "https://raw.githubusercontent.com/DSCAN12/library33/main/loveskeleton/episodes.json",
+            "rating": "4.7/5",
+            "review": "Review by Scorpian
+
+            *အချစ်ဆိုတာ ဘယ်လိုအရာမျိုး ပေါ်ကိုအခြေခံပြီး ရှင်သန်ပေါက်ဖွားလာတာလဲ?
+            
+            မိစ္ဆာတွေကို နှိမ်နင်းတဲ့ သူရဲကောင်းလေး ဟာ
+            စွန့်စားခန်း ခရီးတွေထွက်ရင် နန်းတော်ဟောင်းကြီးကို ရောက်ရှိခဲ့ပါတယ် ။ နန်းတော်ဟောင်းကြီးထဲ မှာ စူးစမ်းရင်း စကားပြောတတ်တဲ့ အရိုးခြောက်မင်းသမီး လေးနဲ့ တွေ့ခဲ့ပါတယ်။
+            အရိုးခြောက် မင်းသမီးလေးက သူရဲကောင်းလေးကို တွေ့တွေ့ချင်း ချစ်ရေးဆိုပါတယ်။ 
+             အဲ့ဒီ မင်းသမီးလေး က ဘာလို့ အရိုးခြောက်ဖြစ်နေရတာလဲ။ မင်းသားလေး ကိုရော ဘာကြောင့် ချစ်ရေးဆိုရတာလဲ ၊။
+            
+            အရိုးခြောက်မင်းသမီးလေးနဲ့ မိစ္ဆာနှိမ်နင်းသူ သူရဲကောင်းလေးတို့ တွေ့ဆုံမူက ဘာတွေ ဆက်ဖြစ်ကြမလဲ ဆိုတာ ဖတ်ကြည့်ကြပါအုန်းနော်။",
+            "series_id": "0003",
+            "status": "OneShot",
+            "title": "Can you fall in love with the skeleton?"
+            },
+            {
+            "encrypted":false,
+            "json":true,
             "category": "Oneshot,Peaceful,Romance,Drama",
             "cover": "https://dev-deepscans.pantheonsite.io/wp-content/uploads/2023/05/1683900189-picsay.jpg",
             "link": "https://raw.githubusercontent.com/DSCAN12/library33/main/goodbyebody/episodes.json",
@@ -455,8 +476,7 @@
             "series_id": "0003",
             "status": "OneShot",
             "title": "Goodbye body"
-            
-        },
+            },
             {
             "encrypted":false,
             "json":true,
@@ -491,7 +511,7 @@
             "status": "OneShot",
             "title": "Cry-Ant"
             
-        },
+            },
             {
             "encrypted":false,
             "json":true,
