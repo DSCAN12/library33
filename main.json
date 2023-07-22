@@ -447,6 +447,18 @@
             {
             "encrypted":false,
             "json":true,
+            "category": "Manhwa,Romance,Drama,Horror",
+            "cover": "https://dev-deepscans.pantheonsite.io/wp-content/uploads/2023/04/954d247c9ee6070bcafb6fcfdcdc82d5.jpg",
+            "link": "https://raw.githubusercontent.com/DSCAN12/library33/main/sweethome/episodes.json",
+            "rating": "4.7/5",
+            "review": "Sweet home ဇာတ်ကားကို ကြည့်ပြီးကြလောက်မှာပါ။ခု ဇာတ်လမ်းမှာတော့ကောင်လေးတစ်ယောက် မိဘနှစ်ပါးဆုံးပါးသွားပြီး တိုက်ခန်းတစ်ခုကိုရောက်လာရာကနေ စပါတယ်။တစ်နေ့ အပြင်လောက ကလူတွေအကုန် စွဲလမ်းစိတ်နဲ့ မကောင်းဆိုးဝါးတွေဖြစ်သွားတဲ့အခါမှာတော့ သူနေတဲ့တိုက်ကနေရော မကောင်းဆိုးဝါးတွေလက်က လွတ်မြောက်နိုင်မှာလား...",
+            "series_id": "0003",
+            "status": "Manhwa",
+            "title": "Sweet Home"
+            },
+            {
+            "encrypted":false,
+            "json":true,
             "category": "Manga,Revenge,Romance,Drama",
             "cover": "https://dev-deepscans.pantheonsite.io/wp-content/uploads/2023/04/Kanojo-NTR-cover.jpg",
             "link": "https://raw.githubusercontent.com/DSCAN12/library33/main/cheatgrilfriend/episodes.json",
