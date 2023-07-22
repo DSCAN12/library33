@@ -447,6 +447,19 @@
             {
             "encrypted":false,
             "json":true,
+            "category": "Oneshot,Peaceful,Romance,Drama",
+            "cover": "https://dev-deepscans.pantheonsite.io/wp-content/uploads/2023/05/1683900189-picsay.jpg",
+            "link": "https://raw.githubusercontent.com/DSCAN12/library33/main/goodbyebody/episodes.json",
+            "rating": "4.7/5",
+            "review": "တိုတိုနဲ့ ထိမိတဲ့ အချစ်ဇာတ်လမ်းလေးတစ်ပုဒ်",
+            "series_id": "0003",
+            "status": "OneShot",
+            "title": "Goodbye body"
+            
+        },
+            {
+            "encrypted":false,
+            "json":true,
             "category": "Oneshot,Comedy,Horror",
             "cover": "https://dev-deepscans.pantheonsite.io/wp-content/uploads/2023/05/002.jpg",
             "link": "https://raw.githubusercontent.com/DSCAN12/library33/main/cryant/episodes.json",
